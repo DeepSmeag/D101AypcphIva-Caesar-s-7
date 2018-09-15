@@ -1,3 +1,5 @@
+#Made by DeepSmeag https://github.com/DeepSmeag
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 # from keyboard import wait
@@ -7,7 +9,6 @@ from selenium.webdriver.support import expected_conditions as EC
 # import urllib.request as urllib
 from imageprocessing import ProcessImage
 from tess import ImgToTxt
-import W101TriviaGeorge
 from PIL import Image
 from io import BytesIO
 # import os
