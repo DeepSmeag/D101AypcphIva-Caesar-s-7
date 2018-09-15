@@ -12,7 +12,7 @@ In order for this code to work, there are some dependencies:
 All code was written on a Windows 10 64bit machine, might be different for other OS.
 
 How to use:
-1. Open W101TriviaBot.py and change lines 24 and 28 with your respective credentials
+1. Open W101Trivia.py and change lines 24 and 28 with your respective credentials
 2. Open that same file with python prompt
 3. Wait for chrome page to load, then enter numbers 1-10 to choose starting quiz; this is a failsafe option in case something breaks on the way, it can happen but it works properly most of time time; if the need arises, you can simply pick up from where you left off and there will probably be no more errors.
 4. Wait, the prompt and chrome page will close by themselves at the end.
