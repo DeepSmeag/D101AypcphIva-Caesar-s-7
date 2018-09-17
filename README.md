@@ -19,4 +19,4 @@ How to use:
 
 There are several possible errors, will make a list if needed and the errors are provided cause I don't know all of them.
 
-Note: VR cache warnings are no problem, they appear often but don't cause any errors.
+Note: Shader cache warnings are no problem, they appear often but don't cause any errors.
