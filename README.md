@@ -9,7 +9,9 @@ In order for this code to work, there are some dependencies:
 - second, the engine for image-to-text recognition is Tesseract-OCR, available here https://github.com/tesseract-ocr/tesseract/wiki for download, the version used is tesseract v4.0.0-beta.1.20180608 but any 4.x.x future updates should work;
 - third, the library used for image processing is OpenCV 3.4.2, but future versions should work as well ;
 - fourth, you will need chromedriver available here http://chromedriver.chromium.org/ , version used by me is 2.42 (probably).
+
 All code was written on a Windows 10 64bit machine, might be different for other OS.
+
 If you want to use this code for your own project, please practice discretion and provide credits if publishing.
 
 How to use:
