@@ -10,9 +10,9 @@ In order for this code to work, there are some dependencies:
 - third, the library used for image processing is OpenCV 3.4.2, but future versions should work as well ;
 - fourth, you will need chromedriver available here http://chromedriver.chromium.org/ , version used by me is 2.42 (probably).
 
-All code was written on a Windows 10 64bit machine, might be different for other OS.
+!!All code was written on a Windows 10 64bit machine, might be different for other OS.
 
-If you want to use this code for your own project, please practice discretion and provide credits if publishing.
+!!If you want to use this code for your own project, please practice discretion and provide credits if publishing.
 
 How to use:
 1. Open W101Trivia.py and change lines 24 and 28 with your respective credentials
